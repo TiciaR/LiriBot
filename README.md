@@ -1,10 +1,10 @@
 # LiriBot
 
-![](images/Movie.png)
+![alt text](images/Movie.png)
 
-![](images/DoWhatItSays.png)
+![alt text](images/DoWhatItSays.png)
 
-![](images/Spotify.png)
+![alt text](images/Spotify.png)
 
-![](images/Concert.png)
+![alt text](images/Concert.png)
 
