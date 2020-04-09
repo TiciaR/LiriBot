@@ -1,4 +1,4 @@
 # LiriBot
 
-![GitHub Logo](documents/images/movie.png)
+![GitHub Logo](/images/movie.png)
 Format: ![Alt Text](url)
